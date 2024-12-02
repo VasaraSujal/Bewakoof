@@ -134,3 +134,52 @@
 .img8{
    width: 98vw;
 }
+.child9{
+   border: 1px solid black;
+   height: 61vh;
+}
+.container11{
+   display: flex;
+   column-gap: 1vw;
+   margin-top: 2vh;
+}
+.img9{
+   width: 18.7vw;
+   height: 52vh;
+}
+.p4{
+   font-size: 1rem;
+   opacity: 0.9;
+   font-weight: 500;
+   padding-left: 0.5vw;
+}
+.p5{
+   font-size: 0.9rem;
+   opacity: 0.6;
+   padding-left: 0.5vw;
+}
+.p6{
+   padding-left: 0.5vw;
+}
+del{
+   font-size: 0.8rem;
+   opacity: 0.8;
+}
+.p8{
+   font-size: 0.8rem;
+   color: rgb(0,184,82);
+}
+.img10{
+   margin-left: 16.5vw;
+   margin-top: -9vh;
+   margin-bottom: 6vh;
+}
+.explore{
+   margin-left: 47vw;
+   margin-top: 4vh;
+}
+.container12{
+   display: flex;
+   column-gap: 1vw;
+   margin-top: 2vh;
+}
