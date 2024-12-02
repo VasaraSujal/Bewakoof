@@ -1,10 +1,9 @@
 .header{
     height: 5vh;
     width: 75vw;
-    border: 2px solid black;
     margin: auto;
     display: flex;
-
+    justify-content: space-between;
 }
 .logo{
     height: 6vh;
@@ -16,4 +15,122 @@
 }
 .header2{
     display: grid;
+    grid-template-columns: 270px 70px 40px 40px;
+    margin-top: -0.6vh;
+    
+}
+.search{
+    height: 5vh;
+    width: 15vw;
+    background-color: #EAEAEA;
+    margin-top: -1.5vh;
+}
+/* .search_icon{
+    height: 5vh;
+    width: 5vw;
+    color: black;
+} */
+ .p2{
+    opacity: 0.5;
+    margin-top: 2vh;
+    margin-left: 1.8vw;
+    height: 0;
+    padding-top: 1vh;
+ }
+ .p3{
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-top: 2vh;
+ }
+ .extra1{
+    border-left: 1px solid gray;
+    padding-left: 1.2vw;
+ }
+ .img1{
+    height: 2.5vh;
+    width: 2.5vw;
+    margin-top: 1.6vh;
+}
+.img2{
+     height: 2.5vh;
+     width: 2.2vw;
+     margin-top: 1.6vh;
+ }
+ .hr{
+    opacity: 0.2;
+    margin-top: 3vh;
+ }
+ .nav{
+    display: grid;
+    grid-template-columns: 180px 114px 132px 180px 178px 159px 207px 196px 180px 209px 209px 95px;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    margin-top: 3vh;
+ }
+ .child3{
+    font-size: 1.1rem;
+ }
+ .img3{
+    height: 80vh;
+    width: 35vw;
+    margin-top: 3vh;
+ }
+ .container1{
+    display: flex;
+    column-gap: 1vw;
+    overflow-x: scroll;
+    scrollbar-width: none;
+ }
+ .container2{
+   display: flex;
+   column-gap: 1vw;
+ }
+ .img4{
+   width: 48.5vw;
+ }
+ .container3{
+   display: flex;
+   column-gap: 1vw;
+   overflow-x: scroll;
+   scrollbar-width: none;
+}
+.img5{
+   height: 70vh;
+}
+.container4{
+   display: flex;
+}
+.img6{
+   height: 55vh;
+   width: 16.4vw;
+}
+.container5{
+   display: flex;
+   margin-top: 2vh;
+}
+.container6{
+   display: flex;
+   margin: auto;
+   margin-top: 2vh;
+   justify-content: center;
+}
+.img7{
+   height: 55vh;
+   width: 16.4vw;
+}
+.container7{
+   display: flex;
+}
+.container8{
+   display: flex;
+   margin-top: 2vh;
+}
+.container9{
+   display: flex;
+   margin: auto;
+   margin-top: 2vh;
+   justify-content: center;
+}
+.img8{
+   width: 98vw;
 }
