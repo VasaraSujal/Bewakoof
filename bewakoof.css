@@ -1,0 +1,19 @@
+.header{
+    height: 5vh;
+    width: 75vw;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+
+}
+.logo{
+    height: 6vh;
+    width: 10vw;
+}
+.header1{
+    display: grid;
+    grid-template-columns: 190px 60px 90px 130px;
+}
+.header2{
+    display: grid;
+}
